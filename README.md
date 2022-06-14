@@ -18,6 +18,6 @@ Desenvolver um programa que executa instruções dadas pelo usuário por meio da
 -	"Ok, abrindo o youtube!"
 -	"Ok, encerrando a aplicação"
 -	"voltar para o início"
--	caso não o usuário fale um comando não previsto: "Desculpe, não foi possível compreender sua solicitação"
+-	caso o usuário fale um comando não previsto: "Desculpe, não foi possível compreender sua solicitação"
 -	Todo começo de loop: "Olá, em que mais posso ajudar?"
 
