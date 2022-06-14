@@ -2,7 +2,7 @@
 Repositório criado para armazenar projeto realizado para disciplina do curso de Engenharia Elétrica Eletrônica na Universidade de Pernambuco.
 
 # Objetivo
-Desenvolver um programa que executa uma instrução dada pelo usuário por meio da voz, ou seja, um sistema que demonstre a sintetização de voz e o reconhecimento de fala. Tudo na linguagem Python com o auxílio de algumas bibliotecas.
+Desenvolver um programa que executa instruções dadas pelo usuário por meio da voz, ou seja, um sistema que demonstre a sintetização de voz e o reconhecimento de fala. Tudo na linguagem Python com o auxílio de algumas bibliotecas.
 
 ## Comandos
 - Desejo abrir o google
